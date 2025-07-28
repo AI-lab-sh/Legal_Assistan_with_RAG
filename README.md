@@ -1,6 +1,6 @@
 # 🤖 Legal Assistant with RAG
 
-A simple legal assistant using **RAG (Retrieval-Augmented Generation)** and **LangChain**, focused on comparing responses from a Gemini Flash 1.5 LLM **with and without retrieval**. This project is built around Iranian civil law (قانون مدنی ایران).
+A simple legal assistant using **RAG (Retrieval-Augmented Generation)** and **LangChain**, focused on comparing responses from a Gemini Flash 1.5 LLM **with and without retrieval**. This project is built around Iranian civil law.
 
 ---
 

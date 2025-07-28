@@ -31,8 +31,7 @@ A simple legal assistant using **RAG (Retrieval-Augmented Generation)** and **La
 # Clone the repo
 $ git clone https://github.com/your-username/legal-assistant-rag.git
 
-# Install dependencies
-$ pip install -r requirements.txt
+
 ```
 
 ---
